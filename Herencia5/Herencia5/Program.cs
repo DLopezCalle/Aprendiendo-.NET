@@ -36,7 +36,7 @@ namespace Herencia5
             if (counter <= lista.Length / 2)
                 Console.WriteLine("LEGAL");                
             else
-                Console.WriteLine("PIRATA");
+                Console.WriteLine("PUTO PIRATA");
 
             Console.WriteLine($"Total con IVA: {totalIVA}");
             Console.WriteLine($"Total sin IVA: {total}");
