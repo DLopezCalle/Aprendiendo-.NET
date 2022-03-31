@@ -1,0 +1,8 @@
+C:\Users\user\source\repos\POO2\POO2\bin\Debug\POO2.exe.config
+C:\Users\user\source\repos\POO2\POO2\bin\Debug\POO2.exe
+C:\Users\user\source\repos\POO2\POO2\bin\Debug\POO2.pdb
+C:\Users\user\source\repos\POO2\POO2\obj\Debug\POO2.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\POO2\POO2\obj\Debug\POO2.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\POO2\POO2\obj\Debug\POO2.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\POO2\POO2\obj\Debug\POO2.exe
+C:\Users\user\source\repos\POO2\POO2\obj\Debug\POO2.pdb
