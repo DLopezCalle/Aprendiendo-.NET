@@ -1,0 +1,8 @@
+C:\Users\user\source\repos\Excepciones3\Excepciones3\bin\Debug\Excepciones3.exe.config
+C:\Users\user\source\repos\Excepciones3\Excepciones3\bin\Debug\Excepciones3.exe
+C:\Users\user\source\repos\Excepciones3\Excepciones3\bin\Debug\Excepciones3.pdb
+C:\Users\user\source\repos\Excepciones3\Excepciones3\obj\Debug\Excepciones3.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Excepciones3\Excepciones3\obj\Debug\Excepciones3.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\Excepciones3\Excepciones3\obj\Debug\Excepciones3.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Excepciones3\Excepciones3\obj\Debug\Excepciones3.exe
+C:\Users\user\source\repos\Excepciones3\Excepciones3\obj\Debug\Excepciones3.pdb

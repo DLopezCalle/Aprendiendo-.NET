@@ -1,0 +1,8 @@
+C:\Users\user\source\repos\Colecciones2\Colecciones2\bin\Debug\Colecciones2.exe.config
+C:\Users\user\source\repos\Colecciones2\Colecciones2\bin\Debug\Colecciones2.exe
+C:\Users\user\source\repos\Colecciones2\Colecciones2\bin\Debug\Colecciones2.pdb
+C:\Users\user\source\repos\Colecciones2\Colecciones2\obj\Debug\Colecciones2.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Colecciones2\Colecciones2\obj\Debug\Colecciones2.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\Colecciones2\Colecciones2\obj\Debug\Colecciones2.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Colecciones2\Colecciones2\obj\Debug\Colecciones2.exe
+C:\Users\user\source\repos\Colecciones2\Colecciones2\obj\Debug\Colecciones2.pdb

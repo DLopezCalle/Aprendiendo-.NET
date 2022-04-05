@@ -1,0 +1,8 @@
+C:\Users\user\source\repos\Listas5\Listas5\bin\Debug\Listas5.exe.config
+C:\Users\user\source\repos\Listas5\Listas5\bin\Debug\Listas5.exe
+C:\Users\user\source\repos\Listas5\Listas5\bin\Debug\Listas5.pdb
+C:\Users\user\source\repos\Listas5\Listas5\obj\Debug\Listas5.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Listas5\Listas5\obj\Debug\Listas5.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\Listas5\Listas5\obj\Debug\Listas5.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Listas5\Listas5\obj\Debug\Listas5.exe
+C:\Users\user\source\repos\Listas5\Listas5\obj\Debug\Listas5.pdb
