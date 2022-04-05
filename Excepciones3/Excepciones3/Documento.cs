@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Excepciones3
 {
-    internal class Documento
+    internal class Documento : I_Imprimible
     {
         private int _hojas;
 
@@ -19,18 +19,19 @@ namespace Excepciones3
             _hojas = folios;
         }
 
-        public int Folios { get => _hojas; set => _hojas = value; }
-
-        public void ImprimirDocumento(Impresora impresora)
+        public int Hojas { get => _hojas; set => _hojas = value; }
+        
+        public void Imprimir(Impresora impresora)
         {
             if (impresora.Tinta < _hojas * 5)
                 throw new ExcepcionTinta();
-            else
-                impresora.Tinta = impresora.Tinta - (this._hojas * 5);
-            if (impresora.Folios < _hojas)
+            else if (impresora.Folios < _hojas)
                 throw new ExcepcionHoja();
             else
-                impresora.Folios = impresora.Folios - this._hojas;
-        }
+            {
+                impresora.Tinta -= this._hojas * 5;
+                impresora.Folios -= this._hojas;
+            }                
+        }        
     }
 }
