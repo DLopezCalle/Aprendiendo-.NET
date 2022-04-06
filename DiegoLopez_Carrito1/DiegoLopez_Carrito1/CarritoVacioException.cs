@@ -10,7 +10,7 @@ namespace DiegoLopez_Carrito1
     {
         public override string ToString()
         {
-            return "ERROR: Problemas al finalizar la compra, el carrito está vacío";
+            return "\nERROR: Problemas al finalizar la compra, el carrito está vacío";
         }
     }
 }

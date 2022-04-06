@@ -10,7 +10,7 @@ namespace DiegoLopez_Carrito1
     {
         public override string ToString()
         {
-            return "ERROR: Por favor escoja una de las opciones disponibles";
+            return "\nERROR: Por favor escoja una de las opciones disponibles";
         }
     }
 }

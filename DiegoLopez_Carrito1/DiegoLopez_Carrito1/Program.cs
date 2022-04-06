@@ -32,6 +32,17 @@ namespace DiegoLopez_Carrito1
             return new List<Categoria> { new Categoria("Comida"), new Categoria("Ropa"), new Categoria("Juguetes") };
         }
 
+        private static List<Articulo> GenerarArticulosCategorias(string categoria, List<Articulo> lista_articulos)
+        {
+            List<Articulo> lista = new List<Articulo>();
+            foreach (Articulo articulo in lista_articulos)
+            {
+                if (articulo._Categoria.Equals(categoria))
+                    lista.Add(articulo);
+            }
+            return lista;
+        }
+
         private static string MenuInicio()
         {
             string opcion = "0";
@@ -92,8 +103,57 @@ namespace DiegoLopez_Carrito1
                     opcion = Console.ReadLine();
                     if (char.Parse(opcion) == '0' || char.Parse(opcion) == 'Z')
                         error = false;
-                    else if (int.Parse(opcion) > 0 && int.Parse(opcion) <= lista_articulos.Count)                        
-                            error = false;
+                    // En caso de que el usuario introduzca un número que no corresponda a un artículo
+                    else if (int.Parse(opcion) > 0)
+                        foreach (Articulo articulo in lista_articulos)
+                        {
+                            if (articulo.Codigo == int.Parse(opcion))
+                                error = false;
+                        }
+                    else
+                        throw new NoExisteCodigoOpcionException();
+                }
+                catch (NoExisteCodigoOpcionException e)
+                {
+                    Console.WriteLine(e);
+                }
+                catch (Exception e)
+                {
+                    Console.WriteLine(e.Message);
+                }
+            }
+            return opcion;
+        }
+
+        private static string MenuTodasCategorias(List<Categoria> lista_categorias)
+        {
+            string opcion = "";
+            bool error = true;
+
+            while (error == true)
+            {
+                int i = 1;
+
+                Console.WriteLine("\n===================================\n");
+                Console.WriteLine("Introduzca el número del categoría que desea: ");
+                Console.WriteLine("\n===================================\n");
+                Console.WriteLine("0. Salir");
+                foreach (Categoria categoria in lista_categorias)
+                {
+                    Console.WriteLine($"{i}. {categoria.ToString()}");
+                    i++;
+                }                    
+                Console.WriteLine("\nZ. Volver");
+
+                Console.Write("\nOpcion: ");
+
+                try
+                {
+                    opcion = Console.ReadLine();
+                    if (char.Parse(opcion) == '0' || char.Parse(opcion) == 'Z')
+                        error = false;
+                    else if (int.Parse(opcion) > 0 && int.Parse(opcion) <= lista_categorias.Count)
+                        error = false;
                     else
                         throw new NoExisteCodigoOpcionException();
                 }
@@ -225,11 +285,41 @@ namespace DiegoLopez_Carrito1
                                     lista_carrito.Add(new Carrito(articulo.Codigo, articulo.Descripcion, articulo.Precio, articulo._Categoria, int.Parse(opcion)));
                                 opcion = "Z";
                             }
-                        }                            
+                        }
                     }
                     else if (opcion == "B") // Ver todas las categorias
                     {
-                        //opcion = MenuTodosArticulos();
+                        opcion = MenuTodasCategorias(lista_categorias);
+                        if (opcion != "Z" && opcion != "0")
+                        {
+                            List<Articulo> lista_articulos_categoria = GenerarArticulosCategorias(dic_categorias[int.Parse(opcion)], lista_articulos);
+                            opcion = MenuTodosArticulos(lista_articulos_categoria);
+
+                            if (opcion != "Z")
+                            {
+                                Articulo articulo = dic_articulos[int.Parse(opcion)];
+                                opcion = MenuCantidad(articulo.Descripcion);
+
+                                if (opcion != "0" && opcion != "Z") // Agregar el articulo con la cantidad a la lista de carrito
+                                {
+                                    bool repetido = false;
+                                    int i = 0;
+                                    // Comprobar que no se agregó el mismo artículo anteriormente
+                                    while (i <= lista_carrito.Count - 1 && repetido == false)
+                                    {
+                                        if (lista_carrito[i].Codigo == articulo.Codigo)
+                                            repetido = true;
+                                        i++;
+                                    }
+
+                                    if (repetido)
+                                        lista_carrito[i - 1].Cantidad += int.Parse(opcion);
+                                    else
+                                        lista_carrito.Add(new Carrito(articulo.Codigo, articulo.Descripcion, articulo.Precio, articulo._Categoria, int.Parse(opcion)));
+                                    opcion = "Z";
+                                }
+                            }
+                        }                            
                     }
                     else if (opcion == "C") // Ver factura
                     {

@@ -26,9 +26,9 @@ namespace DiegoLopez_Carrito1
 
         // ========== Métodos ==========
 
-        public List<Categoria> ObtenerCategorias()
+        public override string ToString()
         {
-            return new List<Categoria> { new Categoria("Comida"), new Categoria("Ropa"), new Categoria("Juguetes") };
+            return ($"{_categoria}");
         }
     }
 }
