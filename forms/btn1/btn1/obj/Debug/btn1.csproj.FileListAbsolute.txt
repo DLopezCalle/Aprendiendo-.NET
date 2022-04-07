@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\forms\btn1\btn1\bin\Debug\btn1.exe.config
+C:\Users\user\source\repos\forms\btn1\btn1\bin\Debug\btn1.exe
+C:\Users\user\source\repos\forms\btn1\btn1\bin\Debug\btn1.pdb
+C:\Users\user\source\repos\forms\btn1\btn1\obj\Debug\btn1.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\forms\btn1\btn1\obj\Debug\btn1.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\forms\btn1\btn1\obj\Debug\btn1.Form1.resources
+C:\Users\user\source\repos\forms\btn1\btn1\obj\Debug\btn1.Properties.Resources.resources
+C:\Users\user\source\repos\forms\btn1\btn1\obj\Debug\btn1.csproj.GenerateResource.cache
+C:\Users\user\source\repos\forms\btn1\btn1\obj\Debug\btn1.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\forms\btn1\btn1\obj\Debug\btn1.exe
+C:\Users\user\source\repos\forms\btn1\btn1\obj\Debug\btn1.pdb

@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\forms\wfLabels2\wfLabels2\bin\Debug\wfLabels2.exe.config
+C:\Users\user\source\repos\forms\wfLabels2\wfLabels2\bin\Debug\wfLabels2.exe
+C:\Users\user\source\repos\forms\wfLabels2\wfLabels2\bin\Debug\wfLabels2.pdb
+C:\Users\user\source\repos\forms\wfLabels2\wfLabels2\obj\Debug\wfLabels2.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\forms\wfLabels2\wfLabels2\obj\Debug\wfLabels2.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\forms\wfLabels2\wfLabels2\obj\Debug\wfLabels2.Form1.resources
+C:\Users\user\source\repos\forms\wfLabels2\wfLabels2\obj\Debug\wfLabels2.Properties.Resources.resources
+C:\Users\user\source\repos\forms\wfLabels2\wfLabels2\obj\Debug\wfLabels2.csproj.GenerateResource.cache
+C:\Users\user\source\repos\forms\wfLabels2\wfLabels2\obj\Debug\wfLabels2.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\forms\wfLabels2\wfLabels2\obj\Debug\wfLabels2.exe
+C:\Users\user\source\repos\forms\wfLabels2\wfLabels2\obj\Debug\wfLabels2.pdb

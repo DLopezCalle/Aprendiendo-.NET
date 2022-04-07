@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\forms\wfTextBox\wfTextBox\bin\Debug\wfTextBox.exe.config
+C:\Users\user\source\repos\forms\wfTextBox\wfTextBox\bin\Debug\wfTextBox.exe
+C:\Users\user\source\repos\forms\wfTextBox\wfTextBox\bin\Debug\wfTextBox.pdb
+C:\Users\user\source\repos\forms\wfTextBox\wfTextBox\obj\Debug\wfTextBox.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\forms\wfTextBox\wfTextBox\obj\Debug\wfTextBox.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\forms\wfTextBox\wfTextBox\obj\Debug\wfTextBox.Form1.resources
+C:\Users\user\source\repos\forms\wfTextBox\wfTextBox\obj\Debug\wfTextBox.Properties.Resources.resources
+C:\Users\user\source\repos\forms\wfTextBox\wfTextBox\obj\Debug\wfTextBox.csproj.GenerateResource.cache
+C:\Users\user\source\repos\forms\wfTextBox\wfTextBox\obj\Debug\wfTextBox.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\forms\wfTextBox\wfTextBox\obj\Debug\wfTextBox.exe
+C:\Users\user\source\repos\forms\wfTextBox\wfTextBox\obj\Debug\wfTextBox.pdb
