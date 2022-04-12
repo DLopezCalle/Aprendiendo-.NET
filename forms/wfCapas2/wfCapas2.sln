@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32319.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wfCapas2", "wfCapas2\wfCapas2.csproj", "{88123876-DD79-4C00-A5EF-BEE1DF62ED45}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88123876-DD79-4C00-A5EF-BEE1DF62ED45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88123876-DD79-4C00-A5EF-BEE1DF62ED45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88123876-DD79-4C00-A5EF-BEE1DF62ED45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88123876-DD79-4C00-A5EF-BEE1DF62ED45}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D4C863CA-8B48-49B6-883A-9B67A64D846D}
+	EndGlobalSection
+EndGlobal

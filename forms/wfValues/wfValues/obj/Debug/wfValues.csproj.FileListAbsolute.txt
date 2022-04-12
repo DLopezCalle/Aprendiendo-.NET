@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\forms\wfValues\wfValues\bin\Debug\wfValues.exe.config
+C:\Users\user\source\repos\forms\wfValues\wfValues\bin\Debug\wfValues.exe
+C:\Users\user\source\repos\forms\wfValues\wfValues\bin\Debug\wfValues.pdb
+C:\Users\user\source\repos\forms\wfValues\wfValues\obj\Debug\wfValues.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\forms\wfValues\wfValues\obj\Debug\wfValues.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\forms\wfValues\wfValues\obj\Debug\wfValues.Form1.resources
+C:\Users\user\source\repos\forms\wfValues\wfValues\obj\Debug\wfValues.Properties.Resources.resources
+C:\Users\user\source\repos\forms\wfValues\wfValues\obj\Debug\wfValues.csproj.GenerateResource.cache
+C:\Users\user\source\repos\forms\wfValues\wfValues\obj\Debug\wfValues.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\forms\wfValues\wfValues\obj\Debug\wfValues.exe
+C:\Users\user\source\repos\forms\wfValues\wfValues\obj\Debug\wfValues.pdb

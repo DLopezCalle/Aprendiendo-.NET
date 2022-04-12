@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\forms\wfCheackBox\wfCheackBox\bin\Debug\wfCheackBox.exe.config
+C:\Users\user\source\repos\forms\wfCheackBox\wfCheackBox\bin\Debug\wfCheackBox.exe
+C:\Users\user\source\repos\forms\wfCheackBox\wfCheackBox\bin\Debug\wfCheackBox.pdb
+C:\Users\user\source\repos\forms\wfCheackBox\wfCheackBox\obj\Debug\wfCheackBox.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\forms\wfCheackBox\wfCheackBox\obj\Debug\wfCheackBox.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\forms\wfCheackBox\wfCheackBox\obj\Debug\wfCheackBox.Form1.resources
+C:\Users\user\source\repos\forms\wfCheackBox\wfCheackBox\obj\Debug\wfCheackBox.Properties.Resources.resources
+C:\Users\user\source\repos\forms\wfCheackBox\wfCheackBox\obj\Debug\wfCheackBox.csproj.GenerateResource.cache
+C:\Users\user\source\repos\forms\wfCheackBox\wfCheackBox\obj\Debug\wfCheackBox.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\forms\wfCheackBox\wfCheackBox\obj\Debug\wfCheackBox.exe
+C:\Users\user\source\repos\forms\wfCheackBox\wfCheackBox\obj\Debug\wfCheackBox.pdb

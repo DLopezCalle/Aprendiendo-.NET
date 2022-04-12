@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\forms\wfComboBoxPueblos\wfComboBoxPueblos\bin\Debug\wfComboBoxPueblos.exe.config
+C:\Users\user\source\repos\forms\wfComboBoxPueblos\wfComboBoxPueblos\bin\Debug\wfComboBoxPueblos.exe
+C:\Users\user\source\repos\forms\wfComboBoxPueblos\wfComboBoxPueblos\bin\Debug\wfComboBoxPueblos.pdb
+C:\Users\user\source\repos\forms\wfComboBoxPueblos\wfComboBoxPueblos\obj\Debug\wfComboBoxPueblos.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\forms\wfComboBoxPueblos\wfComboBoxPueblos\obj\Debug\wfComboBoxPueblos.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\forms\wfComboBoxPueblos\wfComboBoxPueblos\obj\Debug\wfComboBoxPueblos.Form1.resources
+C:\Users\user\source\repos\forms\wfComboBoxPueblos\wfComboBoxPueblos\obj\Debug\wfComboBoxPueblos.Properties.Resources.resources
+C:\Users\user\source\repos\forms\wfComboBoxPueblos\wfComboBoxPueblos\obj\Debug\wfComboBoxPueblos.csproj.GenerateResource.cache
+C:\Users\user\source\repos\forms\wfComboBoxPueblos\wfComboBoxPueblos\obj\Debug\wfComboBoxPueblos.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\forms\wfComboBoxPueblos\wfComboBoxPueblos\obj\Debug\wfComboBoxPueblos.exe
+C:\Users\user\source\repos\forms\wfComboBoxPueblos\wfComboBoxPueblos\obj\Debug\wfComboBoxPueblos.pdb

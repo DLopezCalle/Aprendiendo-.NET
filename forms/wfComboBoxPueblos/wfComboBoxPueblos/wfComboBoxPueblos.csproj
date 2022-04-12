@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{C306E497-4949-47D2-BD33-5C0D0A8AFF97}</ProjectGuid>
+    <ProjectGuid>{A67CCA42-28A0-4E77-881A-AD2D5F5420F4}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>wfCheackBox</RootNamespace>
-    <AssemblyName>wfCheackBox</AssemblyName>
+    <RootNamespace>wfComboBoxPueblos</RootNamespace>
+    <AssemblyName>wfComboBoxPueblos</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -52,6 +52,7 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="Poblacion.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Form1.resx">

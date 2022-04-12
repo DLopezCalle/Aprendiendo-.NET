@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\forms\wfCapas2\wfCapas2\bin\Debug\wfCapas2.exe.config
+C:\Users\user\source\repos\forms\wfCapas2\wfCapas2\bin\Debug\wfCapas2.exe
+C:\Users\user\source\repos\forms\wfCapas2\wfCapas2\bin\Debug\wfCapas2.pdb
+C:\Users\user\source\repos\forms\wfCapas2\wfCapas2\obj\Debug\wfCapas2.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\forms\wfCapas2\wfCapas2\obj\Debug\wfCapas2.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\forms\wfCapas2\wfCapas2\obj\Debug\wfCapas2.Forms.Form1.resources
+C:\Users\user\source\repos\forms\wfCapas2\wfCapas2\obj\Debug\wfCapas2.Properties.Resources.resources
+C:\Users\user\source\repos\forms\wfCapas2\wfCapas2\obj\Debug\wfCapas2.csproj.GenerateResource.cache
+C:\Users\user\source\repos\forms\wfCapas2\wfCapas2\obj\Debug\wfCapas2.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\forms\wfCapas2\wfCapas2\obj\Debug\wfCapas2.exe
+C:\Users\user\source\repos\forms\wfCapas2\wfCapas2\obj\Debug\wfCapas2.pdb

@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{C306E497-4949-47D2-BD33-5C0D0A8AFF97}</ProjectGuid>
+    <ProjectGuid>{D4092D64-A9AB-4E33-8DAF-1483037C876F}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>wfCheackBox</RootNamespace>
-    <AssemblyName>wfCheackBox</AssemblyName>
+    <RootNamespace>wfValues2</RootNamespace>
+    <AssemblyName>wfValues2</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
