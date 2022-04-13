@@ -8,11 +8,11 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Carrito2
+namespace Carrito2.Formularios
 {
-    public partial class Form1 : Form
+    public partial class Carrito : Form
     {
-        public Form1()
+        public Carrito()
         {
             InitializeComponent();
         }
