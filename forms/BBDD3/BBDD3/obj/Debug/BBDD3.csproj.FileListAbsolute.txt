@@ -1,0 +1,8 @@
+C:\Users\user\source\repos\forms\BBDD3\BBDD3\bin\Debug\BBDD3.exe.config
+C:\Users\user\source\repos\forms\BBDD3\BBDD3\bin\Debug\BBDD3.exe
+C:\Users\user\source\repos\forms\BBDD3\BBDD3\bin\Debug\BBDD3.pdb
+C:\Users\user\source\repos\forms\BBDD3\BBDD3\obj\Debug\BBDD3.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\forms\BBDD3\BBDD3\obj\Debug\BBDD3.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\forms\BBDD3\BBDD3\obj\Debug\BBDD3.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\forms\BBDD3\BBDD3\obj\Debug\BBDD3.exe
+C:\Users\user\source\repos\forms\BBDD3\BBDD3\obj\Debug\BBDD3.pdb

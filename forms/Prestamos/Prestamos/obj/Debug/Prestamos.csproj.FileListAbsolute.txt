@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\forms\Prestamos\Prestamos\bin\Debug\Prestamos.exe.config
+C:\Users\user\source\repos\forms\Prestamos\Prestamos\bin\Debug\Prestamos.exe
+C:\Users\user\source\repos\forms\Prestamos\Prestamos\bin\Debug\Prestamos.pdb
+C:\Users\user\source\repos\forms\Prestamos\Prestamos\obj\Debug\Prestamos.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\forms\Prestamos\Prestamos\obj\Debug\Prestamos.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\forms\Prestamos\Prestamos\obj\Debug\Prestamos.Formularios.Principal.resources
+C:\Users\user\source\repos\forms\Prestamos\Prestamos\obj\Debug\Prestamos.Properties.Resources.resources
+C:\Users\user\source\repos\forms\Prestamos\Prestamos\obj\Debug\Prestamos.csproj.GenerateResource.cache
+C:\Users\user\source\repos\forms\Prestamos\Prestamos\obj\Debug\Prestamos.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\forms\Prestamos\Prestamos\obj\Debug\Prestamos.exe
+C:\Users\user\source\repos\forms\Prestamos\Prestamos\obj\Debug\Prestamos.pdb
+C:\Users\user\source\repos\forms\Prestamos\Prestamos\obj\Debug\Prestamos.Formularios.Prestar.resources
+C:\Users\user\source\repos\forms\Prestamos\Prestamos\obj\Debug\Prestamos.Formularios.Devolver.resources
