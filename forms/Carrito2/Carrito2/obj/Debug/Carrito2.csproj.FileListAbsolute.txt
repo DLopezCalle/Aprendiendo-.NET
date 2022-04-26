@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\forms\Carrito2\Carrito2\obj\Debug\Carrito2.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\forms\Carrito2\Carrito2\obj\Debug\Carrito2.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\forms\Carrito2\Carrito2\obj\Debug\Carrito2.Formularios.Carrito.resources
+C:\Users\user\source\repos\forms\Carrito2\Carrito2\obj\Debug\Carrito2.Formularios.Login.resources
+C:\Users\user\source\repos\forms\Carrito2\Carrito2\obj\Debug\Carrito2.Formularios.Principal.resources
+C:\Users\user\source\repos\forms\Carrito2\Carrito2\obj\Debug\Carrito2.Properties.Resources.resources
+C:\Users\user\source\repos\forms\Carrito2\Carrito2\obj\Debug\Carrito2.csproj.GenerateResource.cache
+C:\Users\user\source\repos\forms\Carrito2\Carrito2\obj\Debug\Carrito2.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\forms\Carrito2\Carrito2\bin\Debug\Carrito2.exe.config
+C:\Users\user\source\repos\forms\Carrito2\Carrito2\bin\Debug\Carrito2.exe
+C:\Users\user\source\repos\forms\Carrito2\Carrito2\bin\Debug\Carrito2.pdb
+C:\Users\user\source\repos\forms\Carrito2\Carrito2\obj\Debug\Carrito2.exe
+C:\Users\user\source\repos\forms\Carrito2\Carrito2\obj\Debug\Carrito2.pdb

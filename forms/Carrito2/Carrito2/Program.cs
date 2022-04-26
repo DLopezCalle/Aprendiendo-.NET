@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using Carrito2.Formularios
+using Carrito2.Formularios;
 
 namespace Carrito2
 {

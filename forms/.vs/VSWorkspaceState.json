@@ -3,11 +3,14 @@
     "",
     "\\BBDD1",
     "\\BBDD1\\BBDD1",
-    "\\BBDD2",
-    "\\BBDD3",
-    "\\BBDD4",
-    "\\BBDD5"
+    "\\BBDD5",
+    "\\BBDD5\\BBDD5",
+    "\\Prestamos",
+    "\\Prestamos\\Prestamos",
+    "\\Prestamos\\Prestamos\\Clases",
+    "\\Prestamos\\Prestamos\\Datos",
+    "\\Prestamos\\Prestamos\\Formularios"
   ],
-  "SelectedNode": "\\BBDD1\\BBDD1\\Program.cs",
+  "SelectedNode": "\\Prestamos\\Prestamos\\Datos\\Datos.cs",
   "PreviewInSolutionExplorer": false
 }
